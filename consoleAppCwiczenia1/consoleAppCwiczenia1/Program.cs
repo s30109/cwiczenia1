@@ -8,3 +8,6 @@ String name = "Adam";
 
 int age = 22;
 
+
+int numerek = 12321;
+Console.WriteLine(numerek);
